@@ -1,2 +1,2 @@
 # spm_assignment
-THIS IS ASSIGNMENT No 2 
+THIS IS ASSIGNMENT NO 2 
